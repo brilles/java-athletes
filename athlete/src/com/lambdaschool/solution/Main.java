@@ -5,7 +5,7 @@ public class Main
     public static void main(String[] args)
     {
         AthleteCreationInjector injector;
-        Processor app;
+        Processor app; // will process the athletes
 
         // Create a Track Athlete
         injector = new TrackAthleteCreationInjector();
