@@ -1,6 +1,6 @@
 package com.lambdaschool.solution;
 
-public class TrackAthleteCreationInjector implements AthleteCreationInjector
+public class RugbyAthleteCreationInjector implements AthleteCreationInjector
 {
     @Override
     public Processor getProcess()

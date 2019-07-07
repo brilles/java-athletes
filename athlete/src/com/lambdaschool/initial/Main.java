@@ -1,5 +1,6 @@
 package com.lambdaschool.initial;
 
+// Tightly Coupled
 public class Main
 {
 
