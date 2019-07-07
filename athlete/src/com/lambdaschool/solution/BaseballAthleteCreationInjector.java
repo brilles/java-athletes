@@ -5,6 +5,6 @@ public class BaseballAthleteCreationInjector implements AthleteCreationInjector
     @Override
     public Processor getProcess()
     {
-        return new MyApplication(new AthleteDisplayImpl());
+        return new MyApplication(new BaseballAthleteImpl());
     }
 }
